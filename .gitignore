@@ -1,0 +1,10 @@
+Servers/
+AirlineBooking/.settings/*
+AirlineBooking/ImportedClasses/com/travelbyair/servlet/*.class
+AirlineBooking/WebContent/META-INF/MANIFEST.MF
+AirlineBooking/WebContent/WEB-INF/lib/*
+AirlineBooking/build/classes/com/travelbyair/pojoclasses/*.class
+AirlineBooking/build/classes/com/travelbyair/servlet/*.class
+AirlineBooking/.classpath
+AirlineBooking/.project
+.metadata/
